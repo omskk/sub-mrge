@@ -1,0 +1,4 @@
+name = "sub-merge"
+main = "app.py"
+compatibility_flags = ["python_pages"]
+compatibility_date = "2025-03-02"
